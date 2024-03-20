@@ -1,11 +1,15 @@
 {
   "name": "simple-math-calcv2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is version 2 of simple math",
   "main": "index.js",
   "scripts": {
     "test": "node test/script.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngohieutp/simple-math-calcv2"
+  },  
   "author": "",
   "license": "ISC",
   "dependencies": {
