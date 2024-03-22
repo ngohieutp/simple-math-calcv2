@@ -1,6 +1,6 @@
 {
   "name": "simple-math-calcv2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is version 2 of simple math",
   "main": "index.js",
   "scripts": {
